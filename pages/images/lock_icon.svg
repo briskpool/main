@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <g id="lock_icon" transform="translate(-435 -136)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="18.5" cy="18.5" r="18.5" transform="translate(435 136)" fill="#004494"/>
+    <g id="lock" transform="translate(446.563 145.25)">
+      <g id="Group_218" data-name="Group 218" transform="translate(0)">
+        <path id="Path_2137" data-name="Path 2137" d="M77.49,6.938H76.333V5.4a5.4,5.4,0,1,0-10.792,0V6.938H64.385A.385.385,0,0,0,64,7.323v9.635A1.543,1.543,0,0,0,65.542,18.5H76.333a1.543,1.543,0,0,0,1.542-1.542V7.323A.385.385,0,0,0,77.49,6.938Zm-5.4,8.051a.386.386,0,0,1-.383.428H70.167a.386.386,0,0,1-.383-.428l.243-2.186a1.525,1.525,0,0,1-.631-1.24,1.542,1.542,0,0,1,3.083,0,1.525,1.525,0,0,1-.631,1.24Zm1.929-8.051H67.854V5.4a3.083,3.083,0,0,1,6.167,0Z" transform="translate(-64)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
